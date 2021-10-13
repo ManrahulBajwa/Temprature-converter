@@ -54,6 +54,7 @@ body h2{
     background-color: #e1e7ed;
     color: #0008ff;
     padding: 26px 0px;
+    outline: none;
 }
 .container input:focus{
     border-radius: 20px;
